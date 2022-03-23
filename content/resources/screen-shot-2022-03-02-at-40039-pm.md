@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Image
 title: Screen Shot 2022-03-02 at 4.00.39 PM.png
-uid: 496d36a6-525f-4a98-8dcb-00940a7131e8
+uid: 1789ca2c-e531-4915-96c5-efa1e57f0494
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''
