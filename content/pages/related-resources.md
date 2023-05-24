@@ -1,9 +1,9 @@
 ---
 content_type: page
+description: This section links to related resources on the physics of energy.
 draft: false
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Related Resources
 uid: 9fad2290-cea3-2555-2365-517c47137406
 ---
